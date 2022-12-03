@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Lab24</string>
+    <string name="Inch" translatable="true">Inch</string>
+    <string name="Yards" translatable="true">Yards</string>
+    <string name="Feet" translatable="true">Feet</string>
+    <string name="Miles" translatable="true">Miles</string>
+    <string name="Yottametres" translatable="true">Yottametres</string>
+    <string name="Zettametres" translatable="true">Zettametres</string>
+    <string name="Exametres" translatable="true">Exametres</string>
+    <string name="Petametres" translatable="true">Petametres</string>
+    <string name="Terametres" translatable="true">Terametres</string>
+    <string name="Gigametres" translatable="true">Gigametres</string>
+    <string name="Megametres" translatable="true">Megametres</string>
+    <string name="Kilometres" translatable="true">Kilometres</string>
+    <string name="Hectometres" translatable="true">Hectometres</string>
+    <string name="Decametres" translatable="true">Decametres</string>
+    <string name="Metres" translatable="true">Metres</string>
+    <string name="Decimetres" translatable="true">Decimetres</string>
+    <string name="Centimetres" translatable="true">Centimetres</string>
+    <string name="Millimetres" translatable="true">Millimetres</string>
+    <string name="Micrometres" translatable="true">Micrometres</string>
+    <string name="Nanometres" translatable="true">Nanometres</string>
+    <string name="Picometres" translatable="true">Picometres</string>
+    <string name="Femtometres" translatable="true">Femtometres</string>
+    <string name="Attometres" translatable="true">Attometres</string>
+    <string name="Zeptometres" translatable="true">Zeptometres</string>
+    <string name="Yoctometres" translatable="true">Yoctometres</string>
+</resources>
